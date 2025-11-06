@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUOj2L5O9ig/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://i.giphy.com/media/qgQUOj2L5O9ig/giphy.gif" alt="Coding GIF" width="300"/>
 </p>
 
 ### Desarrollador de Software, entusiasta de Python y Angular.
@@ -50,12 +50,14 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 
 ---
 
-
-### 🎵 ¿Qué estoy escuchando ahora mismo? 
+### 🎵 ¿Qué estoy escuchando ahora mismo?
 
 <p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=viindeel&cover_image=true&theme=default&show_client=false">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=viindeel&cover_image=true&theme=default&show_client=false" alt="Spotify Profile" />
   </a>
+  <br>
+  *Nota: La tarjeta de Spotify requiere configuración API, visita la [documentación](https://github.com/shravan20/spotify-github-profile) si no carga.*
 </p>
 
 ---
@@ -72,7 +74,9 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viindeel&color=blue)
 
+---
+
 ### 🔗 Encuéntrame en la Web
 
 * **Proyecto Destacado:** [angular-tienda-refactorizada](https://github.com/viindeel/angular-tienda-refactorizada)
-* [(https://www.linkedin.com/in/jorgevindelares/)]
+* [Mi Perfil de LinkedIn](https://www.linkedin.com/in/jorgevindelares/)
