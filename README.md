@@ -1,4 +1,4 @@
- como hago que se pongan a la izquierda del gif <h1 align="center">
+<h1 align="center">
   <br>
   ¡Hola! Soy Jorge Vindel 👋
   <br>
