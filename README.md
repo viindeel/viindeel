@@ -30,7 +30,7 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 
 ### 🔨 Tecnologías con las que trabajo
 
-<p align="center">
+<p align="end">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VidWJ4dzJsYzZoYTF6cDV2eHE2M2xwY2JjcWw0cHFlNTMxdW9qdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Working hard GIF" width="400"/>
 </p>
 
