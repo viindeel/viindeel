@@ -30,6 +30,10 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 
 ### 🔨 Tecnologías con las que trabajo
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VidWJ4dzJsYzZoYTF6cDV2eHE2M2xwY2JjcWw0cHFlNTMxdW9qdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Working hard GIF" width="400"/>
+</p>
+
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
