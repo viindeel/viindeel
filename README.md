@@ -1,5 +1,9 @@
 # ¡Hola! Soy Jorge Vindel 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZpc3lqYm9na296eGR1a2t3bWR3c3VwaTZsYm82ZHdvMWh0bmV4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LzQhWvMvO0oD7U9wQf/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
+
 ### Desarrollador de Software, entusiasta de Java y Angular.
 Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuevas formas de aprender.
 
@@ -40,6 +44,17 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 
 ---
 
+### 📈 Actividad Reciente de GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viindeel&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 👁️ Vistas de Perfil
+
+![Profile Views](https://komarev.com/ghpvc/?username=viindeel&color=blue)
 ### 🔗 Encuéntrame en la Web
 
 * **Proyecto Destacado:** [angular-tienda-refactorizada](https://github.com/viindeel/angular-tienda-refactorizada)
