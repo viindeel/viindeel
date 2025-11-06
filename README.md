@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUOj2L5O9ig/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://giphy.com/gifs/the-simpsons-hello-hi-ASd0Ukj0y3qMM" alt="Coding GIF" width="300"/>
 </p>
 
 ### Desarrollador de Software, entusiasta de Python y Angular.
@@ -24,7 +24,6 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=viindeel&show_icons=true&theme=onedark&hide_title=true&hide=prs,issues,contribs&rank_icon=percentile" alt="Estadísticas de GitHub de viindeel" />
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viindeel&layout=compact&theme=onedark&hide=html,css,shell" alt="Lenguajes más usados de viindeel" />
 </p>
 
 ---
