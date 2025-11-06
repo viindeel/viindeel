@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/the-simpsons-hello-hi-ASd0Ukj0y3qMM" alt="Coding GIF" width="300"/>
+  <img src="https://i.giphy.com/media/ASd0Ukj0y3qMM/giphy.webp" alt="Coding GIF" width="300"/>
 </p>
 
 ### Desarrollador de Software, entusiasta de Python y Angular.
