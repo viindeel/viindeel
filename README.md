@@ -1,9 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABS-CBN/wave-divider/master/waves.png" width="100%"/>
   <br>
   ¡Hola! Soy Jorge Vindel 👋
   <br>
-  <img src="https://raw.githubusercontent.com/ABS-CBN/wave-divider/master/waves.png" width="100%"/>
 </h1>
 
 <p align="center">
@@ -48,25 +46,6 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Cursor](https://img.shields.io/badge/Cursor%202.0-181A28?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
 
----
-
-### 🎵 ¿Qué estoy escuchando ahora mismo?
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=viindeel&cover_image=true&theme=default&show_client=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=viindeel&cover_image=true&theme=default&show_client=false" alt="Spotify Profile" />
-  </a>
-  <br>
-  *Nota: La tarjeta de Spotify requiere configuración API, visita la [documentación](https://github.com/shravan20/spotify-github-profile) si no carga.*
-</p>
-
----
-
-### 📈 Actividad Reciente de GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viindeel&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
 
 ---
 
