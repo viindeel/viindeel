@@ -1,10 +1,16 @@
-# ¡Hola! Soy Jorge Vindel 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABS-CBN/wave-divider/master/waves.png" width="100%"/>
+  <br>
+  ¡Hola! Soy Jorge Vindel 👋
+  <br>
+  <img src="https://raw.githubusercontent.com/ABS-CBN/wave-divider/master/waves.png" width="100%"/>
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZpc3lqYm9na296eGR1a2t3bWR3c3VwaTZsYm82ZHdvMWh0bmV4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LzQhWvMvO0oD7U9wQf/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUOj2L5O9ig/giphy.gif" alt="Coding GIF" width="300"/>
 </p>
 
-### Desarrollador de Software, entusiasta de Java y Angular.
+### Desarrollador de Software, entusiasta de Python y Angular.
 Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuevas formas de aprender.
 
 ---
@@ -18,9 +24,9 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 ### 📊 Mis Estadísticas y Contribuciones
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=viindeel&show_icons=true&theme=onedark&hide_title=true&hide=prs" alt="Estadísticas de GitHub de viindeel" />
+    <img src="https://github-readme-stats.vercel.app/api?username=viindeel&show_icons=true&theme=onedark&hide_title=true&hide=prs,issues,contribs&rank_icon=percentile" alt="Estadísticas de GitHub de viindeel" />
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viindeel&layout=compact&theme=onedark&hide=html,css" alt="Lenguajes más usados de viindeel" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viindeel&layout=compact&theme=onedark&hide=html,css,shell" alt="Lenguajes más usados de viindeel" />
 </p>
 
 ---
@@ -44,6 +50,16 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 
 ---
 
+
+### 🎵 ¿Qué estoy escuchando ahora mismo? 
+
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=viindeel&cover_image=true&theme=default&show_client=false" alt="Spotify Profile" />
+  </a>
+</p>
+
+---
+
 ### 📈 Actividad Reciente de GitHub
 
 <p align="center">
@@ -55,6 +71,7 @@ Estoy enfocado en crear soluciones limpias y eficientes, y siempre buscando nuev
 ### 👁️ Vistas de Perfil
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viindeel&color=blue)
+
 ### 🔗 Encuéntrame en la Web
 
 * **Proyecto Destacado:** [angular-tienda-refactorizada](https://github.com/viindeel/angular-tienda-refactorizada)
