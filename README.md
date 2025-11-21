@@ -1,39 +1,42 @@
-# ¡Hola, viajero del código! ✦ Soy Jorge Vindel ⚡
-
+# ✦ Jorge Vindel ⚡
 <p align="center">
-  <img src="https://i.giphy.com/media/ASd0Ukj0y3qMM/giphy.webp" width="320">
+  <img src="https://i.giphy.com/media/ASd0Ukj0y3qMM/giphy.webp" width="340">
+  <br><br>
+  <b><i>"No tengo miedo al build que falla…<br>YO SOY el build que falla"</i></b>
   <br>
-  <b><i>"I am not in danger, Skyler. I AM the danger… when the build falla."</i></b>
+  <sub>— Walter White si hubiera sido programador</sub>
 </p>
 
-### Full-Stack Padawan → Apuntando a Jedi Master  
-**Clase actual:** Backend Sorcerer / Frontend Berserker  
-**Alineación:** Clean Code Lawful Good  
-**Arma principal:** Teclado mecánico + café negro como el alma de un StackOverflow sin respuesta
+### Full-Stack Padawan → Apuntando a Sith Lord del Backend
+**Clase actual:** Backend Sorcerer + Frontend Berserker  
+**Alineación:** Clean Code Lawful Good (con toques Chaotic Neutral cuando hay deadline)  
+**Arma principal:** Portátil y cascos negros como el alma de un StackOverFlow
+---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider.gif" width="100%"/>
+
+# ⚔️ Lore del Personaje (actualizado 2025)
+
+- 🎓 2º DAW — luchando contra el jefe final: **el TFM**  
+- 💾 Backend es amor, frontend es “acepto el sufrimiento por el equipo”  
+- 🔍 Si no entiendo el código fuente, no duermo. Punto.  
+- 🎶 Programo con rock 🤟
+- ☕ Mi tipo de sangre es **Café++** (acepto donaciones en formato Monster Ultra)  
+- 🐧 Linux full time → Zorin OS (Windows solo para emular y sufrir)  
+- 🎧 Auriculares puestos = modo “no molestar o invoco un demonio”  
+- 🦸 Build actual: **40% Developer · 60% Superviviente de NullPointer · 100% Café**
 
 ---
-<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider.gif" alt="divider" width="100%"/>
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider2.gif" width="100%"/>
 
-# ⚔️ Lore del Personaje
+# 🛡️ Arsenal Tecnológico Legendario
 
-- 🎓 2º DAW — sobreviviendo al jefe final: el TFM  
-- 💾 Backend mi pasión, frontend mi campo de pruebas (donde mueren los héroes)  
-- 🔍 "Curioso nivel Dios": si no sé cómo funciona por dentro, no duermo  
-- 🎶 Programo con bandas sonoras de Final Fantasy, NieR y Two Steps From Hell  
-- ☕ Mi sangre es 70% café, 20% Red Bull, 10% lágrimas de deploy fallido  
-- 🐧 Linux enjoyer (Pop!\_OS + Zorin OS) — Windows solo para Valorant  
-- 🦸 Build actual: **40% Developer | 60% Superviviente de excepciones inesperadas**
-
----
-<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider2.gif" alt="divider" width="100%"/>
-
-# 🛡️ Arsenal Tecnológico (Tech Stack Legendario)
+<div align="center">
 
 ### Lenguajes del Consejo Jedi
-![Java](https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python%203.11-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python%203.12-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular%2017-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular%2018-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 ### Herramientas del Gremio
@@ -42,100 +45,108 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### IDEs Épicos
+### IDEs del Olimpo
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor%20AI-181A28?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20AI-00FF00?style=for-the-badge&logo=cursor&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
-<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider3.gif" alt="divider" width="100%"/>
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider3.gif" width="100%"/>
 
 # 🎮 Estado actual del guerrero
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="260">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260">
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="240">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240">
+  <img src="https://media.giphy.com/media/xTiIzJSuOyGU8aFnIw/giphy.gif" width="240">
   <br>
-  <b>Mood actual: "Compilando… 99%…"</b>
+  <b>Compilando... 99%... (desde 2019)</b>
 </p>
 
 ---
-<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider.gif" alt="divider" width="100%"/>
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider.gif" width="100%"/>
 
 # 🏆 Trofeos del Salón de la Fama
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=viindeel&theme=dracula&no-frame=true&row=1&column=7)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viindeel&theme=dracula&no-frame=true&row=1&column=8&margin-w=15">
+</div>
 
-# 📊 Estadísticas de Leyenda
+# 📊 Estadísticas de Leyenda (modo oscuro activado)
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=viindeel&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&count_private=true&rank_icon=percentile">
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=viindeel&theme=dracula&hide_border=true">
-</p>
+<div align="center">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=viindeel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=percentile">
+  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=viindeel&theme=dracula&hide_border=true">
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viindeel&layout=compact&theme=dracula&hide=jupyter%20notebook,html">
-</p>
-
----
-<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider2.gif" alt="divider" width="100%"/>
-
-# ⚡ Stats de RPG (100% canon)
-
-| Atributo                    | Barra de poder                         | Nivel |
-|-----------------------------|----------------------------------------|-------|
-| Backend Sorcery             | ████████████░░░░░░░░ 90%              | S     |
-| Angular Wrath               | ████████░░░░░░░░░░░░ 70%              | A     |
-| Lectura de StackTrace       | ██████████░░░░░░░░░░ 80%              | A+    |
-| Resistencia al Café         | ████████████████░░░░ 99%              | SS    |
-| Probabilidad de romper prod | ████░░░░░░░░░░░░░░░░ 35%              | B     |
-| Refactor sin miedo          | █████████░░░░░░░░░░░ 75%              | A     |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viindeel&layout=compact&theme=dracula&hide=html,jupyter%20notebook&size_weight=0.5&count_weight=0.5">
+</div>
 
 ---
-<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider3.gif" alt="divider" width="100%"/>
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider2.gif" width="100%"/>
 
-# 🎒 Inventario Legendario
+# ⚡ Stats de Personaje (edición 2025 - totalmente canon)
 
-- 🖥️ Monitor ultrawide 34" → +50 visión periférica de bugs  
-- ⌨️ Keychron K8 Pro (Gateron Red) → sonido ASMR de productividad  
-- 🎧 Sony WH-1000XM5 → bloquea hasta el llanto de juniors  
-- ☕ Taza "There's no place like 127.0.0.1" → +100 mana  
-- 🐙 Pulpo de goma anti-estrés → reduce ragequit en -80%  
-- 🌱 Planta de escritorio → +5 oxígeno cuando el código no compila
+<div align="center">
 
----
-<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider.gif" alt="divider" width="100%"/>
+| Atributo                        | Barra                              | Nivel  |
+|----------------------------------|------------------------------------|--------|
+| Backend Sorcery                  | ██████████████░░░░░░ 95%          | S+     |
+| Angular Rage Mode                | █████████░░░░░░░░░░░ 80%          | A+     |
+| Lectura de logs infernales       | ████████████░░░░░░░░ 90%          | S      |
+| Resistencia al café (24h+)       | ██████████████████░░ 99%          | SS     |
+| Romper producción sin querer     | ███░░░░░░░░░░░░░░░░░ 25%          | A      |
+| Refactor a las 3 A.M.            | ███████████░░░░░░░░░ 85%          | S      |
+| Nivel de ragequit controlado     | ████████████████████ 100%         | GOD    |
 
-# 🌌 Easter Eggs & Logros ocultos
+</div>
 
-- He conseguido que un `NullPointerException` me dé las gracias  
-- Mi `git commit -m` promedio tiene más lore que Skyrim  
-- Una vez arreglé un bug leyendo el horóscopo (coincidió Mercurio retrógrado)  
-- Mi código favorito empieza con `// TODO: arreglar esto antes del apocalipsis`
 
 ---
-<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider2.gif" alt="divider" width="100%"/>
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider.gif" width="100%"/>
 
-# 🔥 Proyecto Épico del Momento
+# 🌌 Logros Ocultos Desbloqueados
 
-[![angular-tienda-refactorizada](https://github-readme-stats.vercel.app/api/pin/?username=viindeel&repo=angular-tienda-refactorizada&theme=dracula)](https://github.com/viindeel/angular-tienda-refactorizada)
+- He hecho que un `NullPointerException` se disculpe  
+- Mi `git commit -m` promedio es una novela corta  
+- Arreglé un bug porque Mercurio estaba retrógrado (true story)  
+- Una vez deployé a producción… y funcionó a la primera (nadie me cree)  
+- Mi código favorito empieza con `// Dios mío, ¿quién escribió esto? Ah, yo...`
 
 ---
-<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider3.gif" alt="divider" width="100%"/>
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider2.gif" width="100%"/>
 
-# 👁️‍🗨️ Contador de Almas Inquietas
+# 🔥 Proyecto Épico en Curso
 
-![](https://komarev.com/ghpvc/?username=viindeel&color=ff0066&style=for-the-badge&label=Visitas+al+templo)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viindeel&repo=angular-tienda-refactorizada&theme=dracula">
+</div>
 
-# 🔗 Dónde invocar al desarrollador
+---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider3.gif" width="100%"/>
+
+# 👁️‍🗨️ Contador de Almas que entraron al templo
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=viindeel&color=ff0066&style=for-the-badge&label=ALMAS+CAPTURADAS">
+</div>
+
+# 🔗 Invocaciones permitidas
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgevindelares/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgevindel.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge2020vindel@gmail.com)
+[![Portfolio (próximamente)](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+
+</div>
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9oZtpZG/giphy.gif" width="180">
-  <br>
-  <b>Que la fuerza del clean code te acompañe ✨</b>
+  <img src="https://media.giphy.com/media/M9gbBd9oZtpZG/giphy.gif" width="200">
+  <br><br>
+  <b>⚡ Que el clean code te acompañe, joven padawan ⚡</b>
 </p>
