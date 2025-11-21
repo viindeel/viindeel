@@ -1,138 +1,141 @@
-# ¡Hola! Soy Jorge Vindel 👋
+# ¡Hola, viajero del código! ✦ Soy Jorge Vindel ⚡
 
 <p align="center">
-  <img src="https://i.giphy.com/media/ASd0Ukj0y3qMM/giphy.webp" width="300">
+  <img src="https://i.giphy.com/media/ASd0Ukj0y3qMM/giphy.webp" width="320">
+  <br>
+  <b><i>"I am not in danger, Skyler. I AM the danger… when the build falla."</i></b>
 </p>
 
-### Desarrollador de Software enfocado en Java, Python y Angular  
-Cascos puestos y listo para pelearme con bugs como si fueran jefes finales.
+### Full-Stack Padawan → Apuntando a Jedi Master  
+**Clase actual:** Backend Sorcerer / Frontend Berserker  
+**Alineación:** Clean Code Lawful Good  
+**Arma principal:** Teclado mecánico + café negro como el alma de un StackOverflow sin respuesta
 
 ---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider.gif" alt="divider" width="100%"/>
 
-# 🚀 Sobre mí
+# ⚔️ Lore del Personaje
 
-- 🎓 Estudiante de 2º de DAW  
-- 💻 Fan del backend estructurado y con olor a clean code  
-- ⚡ Me gusta entender cómo funcionan las cosas por dentro  
-- 🎧 Programo con música épica para sentir que estoy salvando el mundo  
-- ☕ Recargo energía con café nivel "ultra instinto"  
-- 🛡️ Mi build actual: 40% developer, 60% superviviente de errores
-
----
-
-# 🧩 Tech Stack
-
-### **Lenguajes & Frameworks**
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://es.wikipedia.org/wiki/SQL)
+- 🎓 2º DAW — sobreviviendo al jefe final: el TFM  
+- 💾 Backend mi pasión, frontend mi campo de pruebas (donde mueren los héroes)  
+- 🔍 "Curioso nivel Dios": si no sé cómo funciona por dentro, no duermo  
+- 🎶 Programo con bandas sonoras de Final Fantasy, NieR y Two Steps From Hell  
+- ☕ Mi sangre es 70% café, 20% Red Bull, 10% lágrimas de deploy fallido  
+- 🐧 Linux enjoyer (Pop!\_OS + Zorin OS) — Windows solo para Valorant  
+- 🦸 Build actual: **40% Developer | 60% Superviviente de excepciones inesperadas**
 
 ---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider2.gif" alt="divider" width="100%"/>
 
-### **Sistemas & Herramientas**
+# 🛡️ Arsenal Tecnológico (Tech Stack Legendario)
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48A690?style=for-the-badge&logo=pop-os&logoColor=white)](https://pop.os/)
+### Lenguajes del Consejo Jedi
+![Java](https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python%203.11-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular%2017-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
+### Herramientas del Gremio
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### IDEs Épicos
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20AI-181A28?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider3.gif" alt="divider" width="100%"/>
 
-### **Editores / IDEs**
-
-[![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Cursor](https://img.shields.io/badge/Cursor%202.0-181A28?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
-
----
-
-# 🎮 Mood mientras programo
+# 🎮 Estado actual del guerrero
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="260">
-  <img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260">
-  <img src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="260">
-</p>
-
----
-
-# 🏆 Trofeos del Guerrero del Código
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=viindeel&theme=onedark&no-frame=true&margin-w=5)
-
----
-
-# 📊 Estadísticas Épicas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viindeel&show_icons=true&theme=onedark&hide_title=true&hide=prs,issues,contribs&rank_icon=percentile">
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viindeel&theme=onedark">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="260">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260">
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="260">
+  <br>
+  <b>Mood actual: "Compilando… 99%…"</b>
 </p>
 
 ---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider.gif" alt="divider" width="100%"/>
 
-# 🛡️ Equipamiento del Programador (inventario friki)
+# 🏆 Trofeos del Salón de la Fama
 
-- 🖥️ **Monitor extra**: +20 visión de bug  
-- 🎧 **Auriculares cerrados**: +15 concentración legendaria  
-- ☕ **Café oscuro**: +50 velocidad de tecleo  
-- 🖱️ **Ratón gamer**: +10 precisión de clics  
-- ⌨️ **Teclado mecánico**: +5 satisfacción por tecla  
-- 🐧 **Linux Zorin OS**: +25 agilidad de entorno  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=viindeel&theme=dracula&no-frame=true&row=1&column=7)
 
----
+# 📊 Estadísticas de Leyenda
 
-# ⚡ Mis Stats de RPG (sí, totalmente reales)
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=viindeel&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&count_private=true&rank_icon=percentile">
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=viindeel&theme=dracula&hide_border=true">
+</p>
 
-⚔️ Fuerza del backend: ██████████░░ 85%
-
-🔮 Lectura de logs: ████████░░░░ 70%
-
-🧠 Conocimiento Angular: ███████░░░░░ 60%
-
-⚙️ Debugging en caliente: █████████░░░ 75%
-
-🔥 Refactor elegante: ████████░░░░ 68%
-
-💀 Probabilidad de romper algo: ████░░░░░░░ 40%
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viindeel&layout=compact&theme=dracula&hide=jupyter%20notebook,html">
+</p>
 
 ---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider2.gif" alt="divider" width="100%"/>
 
-# 🌌 Easter Eggs del Perfil
+# ⚡ Stats de RPG (100% canon)
 
-- Si lees esto, desbloqueaste el **Modo Desarrollador Oculto**  
-- A veces mi código funciona a la primera. A veces.  
-- He visto errores que ni la documentación reconoce  
-- Compilo primero y pregunto después  
-
----
-
-# 🚀 Proyecto Destacado
-
-### ⭐ angular-tienda-refactorizada  
-https://github.com/viindeel/angular-tienda-refactorizada
+| Atributo                    | Barra de poder                         | Nivel |
+|-----------------------------|----------------------------------------|-------|
+| Backend Sorcery             | ████████████░░░░░░░░ 90%              | S     |
+| Angular Wrath               | ████████░░░░░░░░░░░░ 70%              | A     |
+| Lectura de StackTrace       | ██████████░░░░░░░░░░ 80%              | A+    |
+| Resistencia al Café         | ████████████████░░░░ 99%              | SS    |
+| Probabilidad de romper prod | ████░░░░░░░░░░░░░░░░ 35%              | B     |
+| Refactor sin miedo          | █████████░░░░░░░░░░░ 75%              | A     |
 
 ---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider3.gif" alt="divider" width="100%"/>
 
-# 👁️ Contador de almas que pasaron por aquí
+# 🎒 Inventario Legendario
 
-![Profile Views](https://komarev.com/ghpvc/?username=viindeel&color=blue)
+- 🖥️ Monitor ultrawide 34" → +50 visión periférica de bugs  
+- ⌨️ Keychron K8 Pro (Gateron Red) → sonido ASMR de productividad  
+- 🎧 Sony WH-1000XM5 → bloquea hasta el llanto de juniors  
+- ☕ Taza "There's no place like 127.0.0.1" → +100 mana  
+- 🐙 Pulpo de goma anti-estrés → reduce ragequit en -80%  
+- 🌱 Planta de escritorio → +5 oxígeno cuando el código no compila
 
 ---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider.gif" alt="divider" width="100%"/>
 
-# 🔗 Contacto Profesional
+# 🌌 Easter Eggs & Logros ocultos
 
-LinkedIn: https://www.linkedin.com/in/jorgevindelares/
+- He conseguido que un `NullPointerException` me dé las gracias  
+- Mi `git commit -m` promedio tiene más lore que Skyrim  
+- Una vez arreglé un bug leyendo el horóscopo (coincidió Mercurio retrógrado)  
+- Mi código favorito empieza con `// TODO: arreglar esto antes del apocalipsis`
 
 ---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider2.gif" alt="divider" width="100%"/>
 
-# 🪄 BONUS: Logos épicos extra que puedes añadir cuando quieras
+# 🔥 Proyecto Épico del Momento
 
-![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
-![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
-![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)
+[![angular-tienda-refactorizada](https://github-readme-stats.vercel.app/api/pin/?username=viindeel&repo=angular-tienda-refactorizada&theme=dracula)](https://github.com/viindeel/angular-tienda-refactorizada)
+
+---
+<img src="https://github.com/viindeel/viindeel/blob/main/assets/divider3.gif" alt="divider" width="100%"/>
+
+# 👁️‍🗨️ Contador de Almas Inquietas
+
+![](https://komarev.com/ghpvc/?username=viindeel&color=ff0066&style=for-the-badge&label=Visitas+al+templo)
+
+# 🔗 Dónde invocar al desarrollador
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgevindelares/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgevindel.dev@gmail.com)
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9oZtpZG/giphy.gif" width="180">
+  <br>
+  <b>Que la fuerza del clean code te acompañe ✨</b>
+</p>
