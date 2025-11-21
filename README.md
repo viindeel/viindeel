@@ -5,7 +5,7 @@
 </p>
 
 ### Desarrollador de Software enfocado en Java, Python y Angular  
-Café en mano, auriculares puestos y listo para pelearme con bugs como si fueran jefes finales.
+Cascos puestos y listo para pelearme con bugs como si fueran jefes finales.
 
 ---
 
@@ -87,14 +87,16 @@ Café en mano, auriculares puestos y listo para pelearme con bugs como si fueran
 # ⚡ Mis Stats de RPG (sí, totalmente reales)
 
 ⚔️ Fuerza del backend: ██████████░░ 85%
-🔮 Lectura de logs: ████████░░░░ 70%
-🧠 Conocimiento Angular: ███████░░░░░ 60%
-⚙️ Debugging en caliente: █████████░░░ 75%
-🔥 Refactor elegante: ████████░░░░ 68%
-💀 Probabilidad de romper algo: ████░░░░░░░ 40%
 
-yaml
-Copiar código
+🔮 Lectura de logs: ████████░░░░ 70%
+
+🧠 Conocimiento Angular: ███████░░░░░ 60%
+
+⚙️ Debugging en caliente: █████████░░░ 75%
+
+🔥 Refactor elegante: ████████░░░░ 68%
+
+💀 Probabilidad de romper algo: ████░░░░░░░ 40%
 
 ---
 
