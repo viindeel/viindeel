@@ -20,7 +20,7 @@ Cascos puestos y listo para pelearme con bugs como si fueran jefes finales.
 
 ---
 
-# 🧩 Tech Stack (con logos chulos como pediste)
+# 🧩 Tech Stack
 
 ### **Lenguajes & Frameworks**
 
@@ -80,7 +80,7 @@ Cascos puestos y listo para pelearme con bugs como si fueran jefes finales.
 - ☕ **Café oscuro**: +50 velocidad de tecleo  
 - 🖱️ **Ratón gamer**: +10 precisión de clics  
 - ⌨️ **Teclado mecánico**: +5 satisfacción por tecla  
-- 🐧 **Linux Pop!_OS**: +25 agilidad de entorno  
+- 🐧 **Linux Zorin OS**: +25 agilidad de entorno  
 
 ---
 
